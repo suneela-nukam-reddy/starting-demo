@@ -1,4 +1,4 @@
 # starting-demo
-This is my first github Repository
+This is my first github Repository.
 <br>
-- suneela-nukam-reddy
+Author - suneela-nukam-reddy
